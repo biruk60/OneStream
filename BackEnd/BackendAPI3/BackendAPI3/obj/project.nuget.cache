@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "drCoFhoZn7Mjm7A8cdFHlKVwQma97tHXQ/lO4wIXVeTo/KnUU+zv0s5M1ccggM0EQ5udx2j/9KFi0JCCbovwmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\BackendAPI3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\biruk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\biruk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\biruk\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\biruk\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\biruk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\biruk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

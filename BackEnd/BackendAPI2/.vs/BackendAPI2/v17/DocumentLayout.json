@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7DC356-08D9-4B1E-A430-E3CAA6D5AF2E}|BackendAPI2\\BackendAPI2.csproj|c:\\projects\\onestream\\backend\\backendapi2\\backendapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7DC356-08D9-4B1E-A430-E3CAA6D5AF2E}|BackendAPI2\\BackendAPI2.csproj|solutionrelative:backendapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7DC356-08D9-4B1E-A430-E3CAA6D5AF2E}|BackendAPI2\\BackendAPI2.csproj|c:\\projects\\onestream\\backend\\backendapi2\\backendapi2\\controllers\\api2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7DC356-08D9-4B1E-A430-E3CAA6D5AF2E}|BackendAPI2\\BackendAPI2.csproj|solutionrelative:backendapi2\\controllers\\api2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18782F96-FCC3-4D27-96A0-43C3953B649B}|BackendAPI2.Test\\BackendAPI2.Test.csproj|c:\\projects\\onestream\\backend\\backendapi2\\backendapi2.test\\api2controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18782F96-FCC3-4D27-96A0-43C3953B649B}|BackendAPI2.Test\\BackendAPI2.Test.csproj|solutionrelative:backendapi2.test\\api2controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18782F96-FCC3-4D27-96A0-43C3953B649B}|BackendAPI2.Test\\BackendAPI2.Test.csproj|c:\\projects\\onestream\\backend\\backendapi2\\backendapi2.test\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18782F96-FCC3-4D27-96A0-43C3953B649B}|BackendAPI2.Test\\BackendAPI2.Test.csproj|solutionrelative:backendapi2.test\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7DC356-08D9-4B1E-A430-E3CAA6D5AF2E}|BackendAPI2\\BackendAPI2.csproj|c:\\projects\\onestream\\backend\\backendapi2\\backendapi2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7DC356-08D9-4B1E-A430-E3CAA6D5AF2E}|BackendAPI2\\BackendAPI2.csproj|solutionrelative:backendapi2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7DC356-08D9-4B1E-A430-E3CAA6D5AF2E}|BackendAPI2\\BackendAPI2.csproj|c:\\projects\\onestream\\backend\\backendapi2\\backendapi2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD7DC356-08D9-4B1E-A430-E3CAA6D5AF2E}|BackendAPI2\\BackendAPI2.csproj|solutionrelative:backendapi2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2.Test\\User.cs",
+              "RelativeDocumentMoniker": "BackendAPI2.Test\\User.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2.Test\\User.cs",
+              "RelativeToolTip": "BackendAPI2.Test\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:03:41.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API2ControllerTest.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2.Test\\API2ControllerTest.cs",
+              "RelativeDocumentMoniker": "BackendAPI2.Test\\API2ControllerTest.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2.Test\\API2ControllerTest.cs",
+              "RelativeToolTip": "BackendAPI2.Test\\API2ControllerTest.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwE8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:18:05.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackendAPI2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackendAPI2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T04:17:34.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2\\User.cs",
+              "RelativeDocumentMoniker": "BackendAPI2\\User.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2\\User.cs",
+              "RelativeToolTip": "BackendAPI2\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:17:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2\\Program.cs",
+              "RelativeDocumentMoniker": "BackendAPI2\\Program.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2\\Program.cs",
+              "RelativeToolTip": "BackendAPI2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:16:45.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API2Controller.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2\\Controllers\\API2Controller.cs",
+              "RelativeDocumentMoniker": "BackendAPI2\\Controllers\\API2Controller.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI2\\BackendAPI2\\Controllers\\API2Controller.cs",
+              "RelativeToolTip": "BackendAPI2\\Controllers\\API2Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:17:02.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

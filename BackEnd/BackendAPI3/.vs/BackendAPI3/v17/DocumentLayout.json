@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AABE06F-4F3C-42A1-80DA-D73553A4AEC1}|BackendAPI3.Test\\BackendAPI3.Test.csproj|c:\\projects\\onestream\\backend\\backendapi3\\backendapi3.test\\api3controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AABE06F-4F3C-42A1-80DA-D73553A4AEC1}|BackendAPI3.Test\\BackendAPI3.Test.csproj|solutionrelative:backendapi3.test\\api3controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB64014-9A57-4968-AE67-2494904663AD}|BackendAPI3\\BackendAPI3.csproj|c:\\projects\\onestream\\backend\\backendapi3\\backendapi3\\controllers\\api3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB64014-9A57-4968-AE67-2494904663AD}|BackendAPI3\\BackendAPI3.csproj|solutionrelative:backendapi3\\controllers\\api3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB64014-9A57-4968-AE67-2494904663AD}|BackendAPI3\\BackendAPI3.csproj|c:\\projects\\onestream\\backend\\backendapi3\\backendapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB64014-9A57-4968-AE67-2494904663AD}|BackendAPI3\\BackendAPI3.csproj|solutionrelative:backendapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB64014-9A57-4968-AE67-2494904663AD}|BackendAPI3\\BackendAPI3.csproj|c:\\projects\\onestream\\backend\\backendapi3\\backendapi3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AB64014-9A57-4968-AE67-2494904663AD}|BackendAPI3\\BackendAPI3.csproj|solutionrelative:backendapi3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB64014-9A57-4968-AE67-2494904663AD}|BackendAPI3\\BackendAPI3.csproj|c:\\projects\\onestream\\backend\\backendapi3\\backendapi3\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB64014-9A57-4968-AE67-2494904663AD}|BackendAPI3\\BackendAPI3.csproj|solutionrelative:backendapi3\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API3ControllerTest.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3.Test\\API3ControllerTest.cs",
+              "RelativeDocumentMoniker": "BackendAPI3.Test\\API3ControllerTest.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3.Test\\API3ControllerTest.cs",
+              "RelativeToolTip": "BackendAPI3.Test\\API3ControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:03:37.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackendAPI3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackendAPI3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T03:58:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\Program.cs",
+              "RelativeDocumentMoniker": "BackendAPI3\\Program.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\Program.cs",
+              "RelativeToolTip": "BackendAPI3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T03:52:10.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\Address.cs",
+              "RelativeDocumentMoniker": "BackendAPI3\\Address.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\Address.cs",
+              "RelativeToolTip": "BackendAPI3\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T03:48:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API3Controller.cs",
+              "DocumentMoniker": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\Controllers\\API3Controller.cs",
+              "RelativeDocumentMoniker": "BackendAPI3\\Controllers\\API3Controller.cs",
+              "ToolTip": "C:\\Projects\\OneStream\\BackEnd\\BackendAPI3\\BackendAPI3\\Controllers\\API3Controller.cs",
+              "RelativeToolTip": "BackendAPI3\\Controllers\\API3Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T03:47:12.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
